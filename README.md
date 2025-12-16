@@ -101,19 +101,25 @@ start.bat
 
 ## 📊 Скриншоты
 
-### Окно приветствия
+<h2 align="center"> 
+Окно приветствия
+</h2>
 
 <p align="center">
   <img src="screenshots/greetings.png" width="500">
 </p>
 
-### Окно куратора
+<h2 align="center"> 
+Окно куратора
+</h2>
 
 <p align="center">
   <img src="screenshots/curators.png" width="500">
 </p>
 
-### Детали заявления
+<h2 align="center"> 
+Детали заявления
+</h2>
 
 <p align="center">
   <img src="screenshots/statement.png" width="500">
