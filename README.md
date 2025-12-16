@@ -103,15 +103,21 @@ start.bat
 
 ### Окно приветствия
 
-![Окно приветствия](screenshots/greetings.png)
+<p align="center">
+  <img src="screenshots/greetings.png" width="500">
+</p>
 
 ### Окно куратора
 
-![Окно куратора](screenshots/curators.png)
+<p align="center">
+  <img src="screenshots/curators.png" width="500">
+</p>
 
 ### Детали заявления
 
-![Детали заявления](screenshots/statement.png)
+<p align="center">
+  <img src="screenshots/statement.png" width="500">
+</p>
 
 ---
 
